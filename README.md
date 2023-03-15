@@ -9,7 +9,7 @@ You can reach me through:
 * 📧 [Email](mailto:rui.a.peres+github@gmail.com)
 * <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"/>
 
----
+#
 📊 Stats
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomsm&theme=aura&show_icons=true)
