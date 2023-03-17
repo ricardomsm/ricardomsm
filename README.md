@@ -12,4 +12,4 @@ You can reach me through:
 #
 📊 Stats
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomsm&theme=aura&show_icons=true)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardomsm&theme=bear&show_icons=true)
