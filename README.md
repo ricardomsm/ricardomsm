@@ -6,7 +6,7 @@ I love to help shape products into elegant solutions for it's costumers. I love 
 Some of my greatest areas of interest are healthcare, mobility, sustainibility and any concept that affect peoples lives(productivity, time management), because I do believe we can make peoples lives better with software in most cases.
 
 You can reach me through:
-* 📧 [Email](mailto:rui.a.peres+github@gmail.com)
+* 📧 [Email](mailto:ricardomm201@gmail.com)
 * <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"/>
 
 #
