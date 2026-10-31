@@ -12,4 +12,4 @@ You can reach me through:
 #
 📊 Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ricardomsm&theme=light&show_ring=false&border_radius=16)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ricardomsm&theme=radical&show_ring=false&border_radius=16)
